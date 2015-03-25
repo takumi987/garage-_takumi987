@@ -1,7 +1,5 @@
 <style>
-<!--
 body {color: red;}
--->
 </style>
 
 # >> "987 Workshop" vol.1
