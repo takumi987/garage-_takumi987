@@ -1,5 +1,8 @@
-<link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'></link>
-<link href="https://github.com/Jmblllllr/garage-_takumi987/blob/987workshop/fork/987workshop/987w.css" rel="stylesheet"></link>
+<style>
+<!--
+body {color: red;}
+-->
+</style>
 
 # >> "987 Workshop" vol.1
 
