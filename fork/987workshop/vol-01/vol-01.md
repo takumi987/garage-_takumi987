@@ -1,6 +1,6 @@
 # >> "987 Workshop" vol.1
 
-<span class="color: red:">SATURDAY 11 APRIL 2015  
+<span class="background-color: red:">SATURDAY 11 APRIL 2015  
 @YOYOGI WORCLE B1st  
 INTRODUCTION & 1st SET: 25:30 hrs  
 OPEN: 24:30 hrs  
