@@ -1,10 +1,6 @@
-<style>
-body {color: red;}
-</style>
-
 # >> "987 Workshop" vol.1
 
-<hoge>SATURDAY 11 APRIL 2015  
+<span class="color: red:">SATURDAY 11 APRIL 2015  
 @YOYOGI WORCLE B1st  
 INTRODUCTION & 1st SET: 25:30 hrs  
 OPEN: 24:30 hrs  
