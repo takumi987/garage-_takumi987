@@ -13,7 +13,7 @@ garage-_takumi987 におけるコミュニケーションは、主に [Jmblllllr
 
 ## Forkイベント
 
-- ["987 Workshop"](https://github.com/Jmblllllr/garage-_takumi987/blob/master/987workshop) *(forked by @yorreb)*
+- ["987 Workshop"](https://github.com/Jmblllllr/garage-_takumi987/tree/master/fork/987workshop) *(forked by @yorreb)*
 
 ## issuesについて
 現在、Jmblllllr Organizations関連のissuesは全て[coreのissues](https://github.com/Jmblllllr/core/issues)に統合する形をとっており、このリポジトリ単体でのissue機能は使えないように設定しています。詳しくは  [core issue #12](https://github.com/Jmblllllr/core/issues/12) を参照下さい。
