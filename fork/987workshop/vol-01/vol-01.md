@@ -41,7 +41,7 @@ and more...
 *コンテンツの詳細は、Slackの#garage-_takumi987チャンネル
 (詳しくは [Jmblllllr/core issue #10](https://github.com/Jmblllllr/core/issues/10)を参照下さい )
 又はGoogleハングアウトオンエアで決定していきます。
-ぜひご確認ください！*
+よければぜひご確認ください！*
 
 ---
 
