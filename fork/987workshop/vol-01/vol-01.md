@@ -1,6 +1,6 @@
 # >> "987 Workshop" vol.1
 
-<span class="background-color: red:">SATURDAY 11 APRIL 2015  
+SATURDAY 11 APRIL 2015  
 @YOYOGI WORCLE B1st  
 INTRODUCTION & 1st SET: 25:30 hrs  
 OPEN: 24:30 hrs  
@@ -38,7 +38,10 @@ and more...
 ~5:30  
 ~6:00 エンドロール (CLOSE、完パケ)
 
-*コンテンツの詳細は、Googleハングアウトオンエアで決定していきます。ハングアウトの日程調整は Slackの#garage-_takumi987チャンネルにて。決定し次第、日程とリンクをこのファイル内に追記します。興味のある方はご確認ください。*
+*コンテンツの詳細は、Slackの#garage-_takumi987チャンネル
+(詳しくは [Jmblllllr/core issue #10](https://github.com/Jmblllllr/core/issues/10)を参照下さい )
+又はGoogleハングアウトオンエアで決定していきます。
+ぜひご確認ください！*
 
 ---
 
