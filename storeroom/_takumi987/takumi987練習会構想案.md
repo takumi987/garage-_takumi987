@@ -1,9 +1,10 @@
+このmarkdownファイルは、[Jmblllllr Slackグループ](https://jmblr-jp.slack.com/)内のチャンネル #garage-_takumi987 における匠先生のコメント内容をまとめなおしたものです。
 
 Jmblllllr slackグループへの参加をしたい人はこちらからお願いします。　[jmblr-jp-slack](https://jmblr-jp-slack.herokuapp.com/)
 
 ---
 
-# 練習会の構想メモ　続き
+# 2015-03-24 練習会の構想メモ
 
 *takumi987練習会starting-pointは[こちら](https://github.com/Jmblllllr/garageT987/blob/master/starting-point.md)を参照下さい。*
 
@@ -51,6 +52,13 @@ Jmblllllr slackグループへの参加をしたい人はこちらからお願�
 ## 3部について
 
 (以下メモ、変更や改善も想定)
+
+---
+
+---
+
+# 2015-03-27 練習会の構想メモ
+
 
 ###チーム対抗セッションの構想
 
