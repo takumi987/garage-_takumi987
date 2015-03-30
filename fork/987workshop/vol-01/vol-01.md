@@ -42,6 +42,8 @@ and more...
 
 # What is "987 Workshop"?
 
+"987 Workshop"とは、 @takumi987 が構想した練習会( 参考：[starting-point.md](https://github.com/Jmblllllr/garage-_takumi987/blob/master/starting-point.md) )を、 @yorreb がforkし再構成したものです。
+
 [Slack #garage-_takumi987](https://jmblr-jp.slack.com/messages/garage-_takumi987/team/) での"u1akaconan"の質問より。
 
 > このゲストナビゲーターってどんな感じで曲かけるんですかね？
@@ -98,7 +100,7 @@ DJ関連機材を扱うことができない人**という意味です。
 
 ---
 
-*コンテンツの詳細は、Slackの#garage-_takumi987チャンネル
+*各詳細は、Slackの#garage-_takumi987チャンネル
 (詳しくは [Jmblllllr/core issue #10](https://github.com/Jmblllllr/core/issues/10)を参照下さい )
 又はGoogleハングアウトオンエアで決定していきます。
 よければぜひご確認ください！*
