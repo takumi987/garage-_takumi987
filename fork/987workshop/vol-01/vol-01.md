@@ -26,27 +26,21 @@ and more...
 
 ### Timetable
 
-*下記のタイムテーブルは一例です。決定は3.31予定*
+24:30～1:30 : OPEN & blank  
 
-24:30 OPEN
-~1:30 DJ松尾 × introduction  
-~2:00  
-~3:00 DJ Tahey × DANCERz  
-~3:30  
-~4:00 DJ TAISEI × DANCERz  
-~5:00  
-~5:30  
-~6:00 エンドロール (CLOSE、完パケ)
+1:30～2:00 : INTRODUCTION & DJ 松尾 × DANCERz  
 
-24:30 OPEN  
-~1:00  
-~2:00  
-~3:00  
-~3:00  
-~4:00  
-~5:00  
-~5:30  
-~6:00 エンドロール (CLOSE、完パケ)
+2:00～3:00 : blank
+
+3:00～3:30 : DJ Tahey × DANCERz  
+
+3:30～4:30 : blank
+
+4:30～5:00 : DJ TAISEI × DANCERz  
+
+5:05～5:30 : DJ 松尾 (OUTTAKE)  
+
+5:30～6:00 : OUTRO ~ CLOSE  
 
 ---
 
