@@ -54,7 +54,7 @@ https://github.com/Jmblllllr/garage-_takumi987/tree/master/fork/987workshop/READ
 
 # Next...?
 
-[>> "987 Workshop" vol.2](https://github.com/Jmblllllr/garage-_takumi987/edit/master/fork/987workshop/vol-02/vol-02.md)
+[>> "987 Workshop" vol.2](https://github.com/Jmblllllr/garage-_takumi987/blob/master/fork/987workshop/vol-02/vol-02.md)
 
 ---
 
