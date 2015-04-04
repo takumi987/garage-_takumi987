@@ -20,9 +20,10 @@ TICKET: ￥1,000-
 and more...
 
 ### STAFF & FACILITATOR
-- たくみ (koganeigroovy、エターナルブリザード)
-- YORO (koganeigroovy、BIGBOY、Hi-copine)
-- ショタソン (koganeigroovy、SUKIMA)
+- たくみ (koganeigroovy、エターナルブリザード、Jmblllllr Originals)
+- YORO (koganeigroovy、BIGBOY、Hi-copine、Jmblllllr Originals)
+- ショタソン (koganeigroovy、SUKIMA、Jmblllllr Originals)
+- baya (koganeigroovy)
 
 ### Timetable
 
