@@ -58,7 +58,8 @@ DJ関連機材を扱うことができない人**という意味です。
 
 ## "987 Workshop"関連 issues (Jmblllllr/core)
 
-- jmblllllr/core#14
+- [open](https://github.com/Jmblllllr/core/issues?q=is%3Aissue+label%3A%22%E2%80%9D987+Workshop%E2%80%9D%22+is%3Aopen)
+- [close](https://github.com/Jmblllllr/core/issues?q=is%3Aissue+label%3A%22%E2%80%9D987+Workshop%E2%80%9D%22+is%3Aclosed)
 
 ---
 
