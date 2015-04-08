@@ -56,6 +56,10 @@ DJ関連機材を扱うことができない人**という意味です。
 ただ、あくまで "DJ ## × DANCERz" 内での選曲担当者という扱いになるため、
 15~30分を担当していただく形になりますし、動画収録も行われます。
 
+## "987 Workshop"関連 issues (Jmblllllr/core)
+
+- jmblllllr/core#14
+
 ---
 
 *各詳細は、Slackの#garage-_takumi987チャンネル
